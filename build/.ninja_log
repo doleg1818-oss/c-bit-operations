@@ -1,0 +1,9 @@
+# ninja log v7
+8	121	7997548471432694	CMakeFiles/bit_example.dir/src/bit_utils.c.obj	f820a6c89621ca61
+12	123	7997548471432694	CMakeFiles/test_bit_utils.dir/tests/test_bit_utils.c.obj	733f048e4408d340
+4	124	7997548471232588	CMakeFiles/bit_example.dir/examples/main.c.obj	8b9f775abb0f21f
+15	132	7997548471495633	CMakeFiles/test_bit_utils.dir/src/bit_utils.c.obj	18507610c5d972f
+125	280	7997548472572349	bit_example.exe	58d4693855c8b477
+132	291	7997548472572349	test_bit_utils.exe	6cbe29a89d9bbdce
+5	97	7997550150357285	CMakeFiles/bit_example.dir/examples/main.c.obj	8b9f775abb0f21f
+98	217	7997550151313721	bit_example.exe	58d4693855c8b477
