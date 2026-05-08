@@ -1,26 +1,26 @@
 [
 {
-  "directory": "D:/2.work/4_education/1_C/c-bit-operations/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/c-bit-operations/include -g -std=gnu99 -o CMakeFiles\\bit_example.dir\\examples\\main.c.obj -c D:\\2.work\\4_education\\1_C\\c-bit-operations\\examples\\main.c",
-  "file": "D:/2.work/4_education/1_C/c-bit-operations/examples/main.c",
-  "output": "D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/bit_example.dir/examples/main.c.obj"
+  "directory": "D:/2.work/4_education/1_C/1_c_bit_operations/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/1_c_bit_operations/include -g -std=gnu99 -o CMakeFiles\\bit_example.dir\\examples\\main.c.obj -c D:\\2.work\\4_education\\1_C\\1_c_bit_operations\\examples\\main.c",
+  "file": "D:/2.work/4_education/1_C/1_c_bit_operations/examples/main.c",
+  "output": "D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/bit_example.dir/examples/main.c.obj"
 },
 {
-  "directory": "D:/2.work/4_education/1_C/c-bit-operations/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/c-bit-operations/include -g -std=gnu99 -o CMakeFiles\\bit_example.dir\\src\\bit_utils.c.obj -c D:\\2.work\\4_education\\1_C\\c-bit-operations\\src\\bit_utils.c",
-  "file": "D:/2.work/4_education/1_C/c-bit-operations/src/bit_utils.c",
-  "output": "D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/bit_example.dir/src/bit_utils.c.obj"
+  "directory": "D:/2.work/4_education/1_C/1_c_bit_operations/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/1_c_bit_operations/include -g -std=gnu99 -o CMakeFiles\\bit_example.dir\\src\\bit_utils.c.obj -c D:\\2.work\\4_education\\1_C\\1_c_bit_operations\\src\\bit_utils.c",
+  "file": "D:/2.work/4_education/1_C/1_c_bit_operations/src/bit_utils.c",
+  "output": "D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/bit_example.dir/src/bit_utils.c.obj"
 },
 {
-  "directory": "D:/2.work/4_education/1_C/c-bit-operations/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/c-bit-operations/include -g -std=gnu99 -o CMakeFiles\\test_bit_utils.dir\\tests\\test_bit_utils.c.obj -c D:\\2.work\\4_education\\1_C\\c-bit-operations\\tests\\test_bit_utils.c",
-  "file": "D:/2.work/4_education/1_C/c-bit-operations/tests/test_bit_utils.c",
-  "output": "D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/test_bit_utils.dir/tests/test_bit_utils.c.obj"
+  "directory": "D:/2.work/4_education/1_C/1_c_bit_operations/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/1_c_bit_operations/include -g -std=gnu99 -o CMakeFiles\\test_bit_utils.dir\\tests\\test_bit_utils.c.obj -c D:\\2.work\\4_education\\1_C\\1_c_bit_operations\\tests\\test_bit_utils.c",
+  "file": "D:/2.work/4_education/1_C/1_c_bit_operations/tests/test_bit_utils.c",
+  "output": "D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/test_bit_utils.dir/tests/test_bit_utils.c.obj"
 },
 {
-  "directory": "D:/2.work/4_education/1_C/c-bit-operations/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/c-bit-operations/include -g -std=gnu99 -o CMakeFiles\\test_bit_utils.dir\\src\\bit_utils.c.obj -c D:\\2.work\\4_education\\1_C\\c-bit-operations\\src\\bit_utils.c",
-  "file": "D:/2.work/4_education/1_C/c-bit-operations/src/bit_utils.c",
-  "output": "D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/test_bit_utils.dir/src/bit_utils.c.obj"
+  "directory": "D:/2.work/4_education/1_C/1_c_bit_operations/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/1_c_bit_operations/include -g -std=gnu99 -o CMakeFiles\\test_bit_utils.dir\\src\\bit_utils.c.obj -c D:\\2.work\\4_education\\1_C\\1_c_bit_operations\\src\\bit_utils.c",
+  "file": "D:/2.work/4_education/1_C/1_c_bit_operations/src/bit_utils.c",
+  "output": "D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/test_bit_utils.dir/src/bit_utils.c.obj"
 }
 ]

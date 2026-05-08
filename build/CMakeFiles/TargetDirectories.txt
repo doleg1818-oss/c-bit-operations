@@ -1,4 +1,4 @@
-D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/bit_example.dir
-D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/test_bit_utils.dir
-D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/edit_cache.dir
-D:/2.work/4_education/1_C/c-bit-operations/build/CMakeFiles/rebuild_cache.dir
+D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/bit_example.dir
+D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/test_bit_utils.dir
+D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/edit_cache.dir
+D:/2.work/4_education/1_C/1_c_bit_operations/build/CMakeFiles/rebuild_cache.dir

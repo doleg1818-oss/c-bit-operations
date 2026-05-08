@@ -42,14 +42,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "bit_example::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-bit_example-Debug-230cb5d0b70ed8e093c5.json",
+					"jsonFile" : "target-bit_example-Debug-0db8b7ef6224eb443507.json",
 					"name" : "bit_example",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test_bit_utils::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test_bit_utils-Debug-fbb6e07308b23ea2b05e.json",
+					"jsonFile" : "target-test_bit_utils-Debug-5e29ce955f628f4b0feb.json",
 					"name" : "test_bit_utils",
 					"projectIndex" : 0
 				}
@@ -59,8 +59,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/2.work/4_education/1_C/c-bit-operations/build",
-		"source" : "D:/2.work/4_education/1_C/c-bit-operations"
+		"build" : "D:/2.work/4_education/1_C/1_c_bit_operations/build",
+		"source" : "D:/2.work/4_education/1_C/1_c_bit_operations"
 	},
 	"version" : 
 	{
