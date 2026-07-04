@@ -1,0 +1,23 @@
+[33mcommit e0b2c46909d85eb4830b7b94e7b68b80f9d7076a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: doleg1818-oss <doleg1818@gmail.com>
+Date:   Fri May 8 09:03:24 2026 +0300
+
+    finish
+
+[33mcommit fdb51cd8ccc5f89519c38483f7a5fa8aaa76dd6f[m
+Author: doleg1818-oss <doleg1818@gmail.com>
+Date:   Wed May 6 10:21:12 2026 +0300
+
+    implement basic bit operations
+
+[33mcommit a752e1a67494a17da4b9ab70b0b5d9494b214df4[m
+Author: doleg1818-oss <doleg1818@gmail.com>
+Date:   Wed May 6 09:25:20 2026 +0300
+
+    Add initial project structure
+
+[33mcommit f00af6628e8e1cbed887da4e59403f9324ca6952[m
+Author: doleg1818-oss <doleg1818@gmail.com>
+Date:   Wed May 6 09:06:15 2026 +0300
+
+    Initial commit
